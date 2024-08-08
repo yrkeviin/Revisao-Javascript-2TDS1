@@ -36,3 +36,7 @@ Exemplo: Se quantidadePalmas for igua a 3, o programa deve exibir "👏👏👏"
 
 Desafio Extra:
 Implemente uma lógica para que, a cada 5 palmas, o programa adicione um emoji de “🎉” à string de aplausos.
+
+## Atividade 05
+
+Contexto: Uma lanchonete modernizou o seu sistema de pedidos! Agora, os clientes montam seus hambúrgueres diretamente no código, sem precisar de interface gráfica. É a sua vez de programar essa experiência inovadora!
